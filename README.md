@@ -1,4 +1,2 @@
-q
+hogehoge
 =
-
-q
