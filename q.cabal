@@ -1,0 +1,14 @@
+name:           q
+version:        0.1
+cabal-version:  >=1.2
+build-type:     Simple
+author:         0000011055878
+
+executable q
+  hs-source-dirs:  src
+  main-is:         Helloworld.hs
+  build-depends:   
+                   base >= 4,
+                   yesod
+  ghc-options:     -Wall
+
